@@ -58,5 +58,7 @@ The materials herein are all (c) 2013-2016 Kyle Simpson.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License</a>.
 
-中文
-I also have some JS training material available in on-demand video format. I teach courses through [Frontend Masters](https://FrontendMasters.com), like my [Advanced JS](https://frontendmasters.com/courses/advanced-javascript/) workshop (more courses coming soon!).：https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN
+
+I also have some JS training material available in on-demand video format. I teach courses through [Frontend Masters](https://FrontendMasters.com), like my [Advanced JS](https://frontendmasters.com/courses/advanced-javascript/) workshop (more courses coming soon!).
+
+中文：https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN
